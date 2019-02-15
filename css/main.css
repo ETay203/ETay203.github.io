@@ -47,5 +47,6 @@ ul.posts li {
 .cv li { line-height: 23px; }
 .cv h2 { font-size: 26.5px; }
 .cv h1 { font-size: 32.5px; }
+.cv p { font-size: 15px;}
 
 .notes, .contact, .about, .cv, .error, .swatches { margin-bottom: 30px; }
