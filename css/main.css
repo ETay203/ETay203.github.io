@@ -43,27 +43,11 @@ ul.posts li {
 }
 
 
-button {
-        border:none;
-        display:inline-block;
-        padding:8px 16px;
-        vertical-align:middle;
-        overflow:hidden;
-        text-decoration:none;
-        color:inherit;
-        background-color:#d5d5d5;
-        text-align:center;
-        cursor:pointer;
-        white-space:nowrap;
-}
-
-
 /* CV */
 .cv {line-height: 23px; margin: 60px auto; width: 70%;}
 .cv li { font-size: 1.5em; text-align: left; line-height: 23px; }
 .cv h2 { font-size: 1.8em; text-align: center; }
 .cv h1 { font-size: 2.2em; text-align: center; }
-.cv p { font-size: 1.5em; text-align: justify; }
-.cv ul{ font-size: 1.5em; text-align: left;}
+.cv p  { font-size: 1.5em; text-align: justify; }
+.cv ul { font-size: 1.5em; text-align: left;}
 
-.notes, .contact, .about, .cv, .error, .swatches { margin-bottom: 30px; }
