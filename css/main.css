@@ -45,8 +45,8 @@ ul.posts li {
 /* CV */
 .cv {line-height: 23px; margin: 60px auto; width: 70%;}
 .cv li { line-height: 23px; }
-.cv h2 { font-size: 26.5px; }
-.cv h1 { font-size: 32.5px; }
-.cv p { font-size: 15px; text-align: justify}
+.cv h2 { font-size: 12px; text-align: center; }
+.cv h1 { font-size: 22px; text-align: center; }
+.cv p { font-size: 10px; text-align: justify; }
 
 .notes, .contact, .about, .cv, .error, .swatches { margin-bottom: 30px; }
