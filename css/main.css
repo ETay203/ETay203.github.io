@@ -60,9 +60,10 @@ button {
 
 /* CV */
 .cv {line-height: 23px; margin: 60px auto; width: 70%;}
-.cv li { font-size: 15px; text-align: left; line-height: 23px; }
-.cv h2 { font-size: 18px; text-align: center; }
-.cv h1 { font-size: 22px; text-align: center; }
-.cv p { font-size: 15px; text-align: justify; }
+.cv li { font-size: 1.5em; text-align: left; line-height: 23px; }
+.cv h2 { font-size: 1.8em; text-align: center; }
+.cv h1 { font-size: 2.2em; text-align: center; }
+.cv p { font-size: 1.5em; text-align: justify; }
+.cv ul{ font-size: 1.5em; text-align: left;}
 
 .notes, .contact, .about, .cv, .error, .swatches { margin-bottom: 30px; }
