@@ -45,7 +45,7 @@ ul.posts li {
 
 /* CV */
 .cv {line-height: 23px; margin: 60px auto; width: 70%;}
-.cv li { font-size: 1.5em; text-align: left; line-height: 23px; }
+.cv li { font-size: 1.5em; text-align: left; }
 .cv h2 { font-size: 1.8em; text-align: center; }
 .cv h1 { font-size: 2.2em; text-align: center; }
 .cv p  { font-size: 1.5em; text-align: justify; }
